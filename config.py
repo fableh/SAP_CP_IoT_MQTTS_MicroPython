@@ -2,7 +2,6 @@
 
 SCP_IOT_PORT = 8883
 SCP_IOT_HOST = '<SCP IoT Service host>'
-#SCP_IOT_PATH = '/measures/f8dca15f30149def'
 SCP_IOT_ROOT_CA = '/flash/cert/eu10cpiotsap.crt'
 SCP_IOT_CLIENT_CERT = '/flash/cert/credential.crt'
 SCP_IOT_PRIVATE_KEY = '/flash/cert/credential.key'
