@@ -3,7 +3,7 @@
 > Please add your own certificates in the cert folder. 
 > To get the certs u can simply use the ui:
 
-![Alt text](pics/cert1.png?raw=true)
+![Alt text](pics/cert1.png width="48")
 
 ![Alt text](pics/cert2.png?raw=true)
 
