@@ -1,1 +1,2 @@
-# SAP_CP_IoT_MQTTS_MicroPython
+# Micropython implementation to communicate via MQTTS with SAP CP IoT
+
